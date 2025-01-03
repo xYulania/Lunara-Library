@@ -1,4 +1,4 @@
-# lunara-library
+# Lunara-Library
 Library Management System Using JavaScript
 
 
