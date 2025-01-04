@@ -67,3 +67,4 @@ do {
         console.log(`Invalid choice. Please enter a number between 1 and 6.`)
     }
 } while (userChoice > 0 && userChoice < 7)
+    // hello
